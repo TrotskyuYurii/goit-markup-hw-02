@@ -32,7 +32,8 @@ body {
 }
 
 .header-logo {
-  color: var(--IRIS, #4d5ae5);
+  /* color: var(--IRIS, #4d5ae5); */
+  color: #2e2f42;
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
@@ -54,9 +55,6 @@ body {
   letter-spacing: 0.02em;
 }
 
-.header-link{
-  color: #2e2f42;
-}
 
 
 .adress-list {
