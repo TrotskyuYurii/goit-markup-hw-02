@@ -128,10 +128,12 @@ body {
 
 .main-btn:hover {
   background: var(--IRIS, #404bbf);
+  cursor: pointer;
 }
 
 .main-btn:focus {
   background: var(--IRIS, #404bbf);
+  cursor: pointer;
 }
 
 /* strategy */
