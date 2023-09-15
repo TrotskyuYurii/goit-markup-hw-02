@@ -109,13 +109,14 @@ body {
   color: var(--WHITE, #fff);
   text-align: center;
 
-  /* Header 1 */
+  /* Header */
   font-size: 56px;
   line-height: 1.07; /* 107.143% */
   letter-spacing: 0.02em;
   background: #2e2f42;
 }
 
+/* section 1 */
 .main-btn {
   background: var(--IRIS, #4d5ae5);
   color: var(--WHITE, #ffffff);
@@ -136,7 +137,7 @@ body {
   cursor: pointer;
 }
 
-/* strategy */
+/* Section 2 strategy */
 .strategy-list-sub {
   color: var(--NAVY-BLUE, #2e2f42);
   font-size: 20px;
@@ -153,7 +154,7 @@ body {
   letter-spacing: 0.02em;
 }
 
-/* ourteam */
+/* Section 3 ourteam */
 .ourteam-title {
   color: var(--NAVY-BLUE, #2e2f42);
   text-align: center;
@@ -182,7 +183,7 @@ body {
     letter-spacing: 0.02em;   
 }
 
-/* ourportfolio */
+/* Section 4 ourportfolio */
 .ourportfolio-title {
     color: var(--NAVY-BLUE, #2E2F42);
     text-align: center;
