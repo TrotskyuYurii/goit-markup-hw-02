@@ -72,7 +72,9 @@ body {
   letter-spacing: 0.02em;
 }
 
-
+.address{
+  font-style: normal; 
+}
 
 .adress-list {
   font-family: Roboto;
