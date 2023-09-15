@@ -59,7 +59,6 @@ body {
 }
 
 
-
 .header-logo span {
   color: var(--NAVY-BLUE, #2e2f42);
 }
@@ -83,7 +82,17 @@ body {
   letter-spacing: 0.02em;
 }
 
+.address-link{
+  color:  #434455;
+}
 
+.address-link:hover{
+  color:  #404bbf;
+}
+
+.address-link:focus{
+  color:  #404bbf;
+}
 
 
 /* main */
