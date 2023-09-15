@@ -50,6 +50,13 @@ body {
   letter-spacing: 0.02em; 
 }
 
+.header-linkf:hover{
+  color: #404bbf;
+}
+
+.header-linkf:focus{
+  color: #404bbf;
+}
 
 
 
