@@ -9,15 +9,16 @@ font-family: 'Roboto', sans-serif; */
 .link {
   text-decoration: none;
 }
-.visually-hidden {
+
+/* .visually-hidden {
   height: 1px;
   margin: -1px;
-  /* border: 0; */
+  border: 0;
   white-space: nowrap;
   clip-path: inset(100%);
   clip: rect(0 0 0 0);
   overflow: hidden;
-}
+} */
 
 
 /* header */
