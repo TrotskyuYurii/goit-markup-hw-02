@@ -161,9 +161,9 @@ body {
 .ourteam-title {
   color: #2e2f42;
   text-align: center;
-  font-size: 20px;
+  font-size: 36px;
   font-weight: 500;
-  line-height: 1.2; 
+  line-height: 1.11; 
   letter-spacing: 0.02em;
   text-transform: capitalize;
   background-color: #F4F4FD;
@@ -181,6 +181,14 @@ body {
   line-height: 1.2; /* 120% */
   letter-spacing: 0.02em;
   background-color: #FFFFFF;
+}
+
+.ourteam-sub{
+  color: var(--NAVY-BLUE, #2E2F42);
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2px; /* 120% */
+  letter-spacing: 0.02em;
 }
 
 .ourteam-text{
