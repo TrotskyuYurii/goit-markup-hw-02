@@ -41,7 +41,7 @@ body {
   text-transform: uppercase;
 }
 
-.header-linkf{
+.header-link{
   color: var(--NAVY-BLUE, #2E2F42);
   font-size: 16px;
   font-style: normal;
@@ -50,11 +50,11 @@ body {
   letter-spacing: 0.02em; 
 }
 
-.header-linkf:hover{
+.header-link:hover{
   color: #404bbf;
 }
 
-.header-linkf:focus{
+.header-link:focus{
   color: #404bbf;
 }
 
